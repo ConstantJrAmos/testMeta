@@ -14,7 +14,7 @@
 <body>
     <div class="les_button">
         <a class="button mt-6 ml-8"  href="/"> <i class="icon solid fa-laptop"></i></a>
-        <a class="button mt-6 ml-8"  href="https://www.facebook.com/sharer.php?u=https://app-metatest.herokuapp.com/"> <i class="icon solid fa-share"></i></i></a>
+        <a class="button mt-6 ml-8" target="_blank"  href="https://www.facebook.com/sharer.php?u=https://app-metatest.herokuapp.com/"> <i class="icon solid fa-share"></i></i></a>
     </div>
    
 </body>
