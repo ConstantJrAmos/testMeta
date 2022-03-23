@@ -14,8 +14,14 @@
 		<link rel="stylesheet" href="assets/css/main.css" />
         <meta property="og:type" content="article" />
         <meta property="og:title" content="Lien de formulaire de parainage" />
-        <meta property="og:description" content=" " />
+        <meta property="og:description" content="Bonjour à tous je m'appelle  je suis spécialisé dans la vente en ligne, j’aide les salariés à générer entre 3000 et 15000 euros par mois grâce à Internet, avec des taux de commissions de 50% ,très intéressant surtout pour ceux ou celles qui font du digital Marketing cette opportunité pour rendre vos réseaux sociaux très rentables facilement.  Contacter moi plus d'informations.  " />
         <meta property="og:image" content="https://media.discordapp.net/attachments/955417916696842300/955418391072608267/group-of-business-talking-in-meeting.psddl.psddl3.jpg" />
+		<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="" />
+<meta name="twitter:title" content="Formulaire de parrainage" />
+<meta name="twitter:description" content="Bonjour à tous je m'appelle  je suis spécialisé dans la vente en ligne, j’aide les salariés à générer entre 3000 et 15000 euros par mois grâce à Internet, avec des taux de commissions de 50% ,très intéressant surtout pour ceux ou celles qui font du digital Marketing cette opportunité pour rendre vos réseaux sociaux très rentables facilement.  Contacter moi plus d'informations.  " />
+<meta name="twitter:image" content="https://media.discordapp.net/attachments/955417916696842300/955418391072608267/group-of-business-talking-in-meeting.psddl.psddl3.jpg" />
+
 	</head>
 	<body class="is-preload">
 
