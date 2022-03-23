@@ -5,146 +5,148 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
-	<head>
-		<title>Paradigm Shift by HTML5 UP</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<meta name="description" content="" />
-		<meta name="keywords" content="" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-        <meta property="og:type" content="article" />
-        <meta property="og:title" content="Lien de formulaire de parainage" />
-        <meta property="og:description" content="Bonjour à tous je m'appelle  je suis spécialisé dans la vente en ligne, j’aide les salariés à générer entre 3000 et 15000 euros par mois grâce à Internet, avec des taux de commissions de 50% ,très intéressant surtout pour ceux ou celles qui font du digital Marketing cette opportunité pour rendre vos réseaux sociaux très rentables facilement.  Contacter moi plus d'informations.  " />
-        <meta property="og:image" content="https://media.discordapp.net/attachments/955417916696842300/955418391072608267/group-of-business-talking-in-meeting.psddl.psddl3.jpg" />
-		<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:site" content="" />
-<meta name="twitter:title" content="Formulaire de parrainage" />
-<meta name="twitter:description" content="Bonjour à tous je m'appelle  je suis spécialisé dans la vente en ligne, j’aide les salariés à générer entre 3000 et 15000 euros par mois grâce à Internet, avec des taux de commissions de 50% ,très intéressant surtout pour ceux ou celles qui font du digital Marketing cette opportunité pour rendre vos réseaux sociaux très rentables facilement.  Contacter moi plus d'informations.  " />
-<meta name="twitter:image" content="https://media.discordapp.net/attachments/955417916696842300/955418391072608267/group-of-business-talking-in-meeting.psddl.psddl3.jpg" />
 
-	</head>
-	<body class="is-preload">
+<head>
+	<title>Paradigm Shift by HTML5 UP</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<link rel="stylesheet" href="assets/css/main.css" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Lien de formulaire de parainage" />
+	<meta property="og:description" content="" />
+	<meta property="og:image" content="https://media.discordapp.net/attachments/955417916696842300/955418391072608267/group-of-business-talking-in-meeting.psddl.psddl3.jpg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="" />
+	<meta name="twitter:title" content="Formulaire de parrainage" />
+	<meta name="twitter:description" content=" " />
+	<meta name="twitter:image" content="https://media.discordapp.net/attachments/955417916696842300/955418391072608267/group-of-business-talking-in-meeting.psddl.psddl3.jpg" />
 
-		<!-- Wrapper -->
-			<div id="wrapper">
+</head>
 
-				<!-- Intro -->
-					<section class="intro">
-						<header>
-							<h1>Paradigm Shift</h1>
-							<p>A free responsive site template designed by <a href="https://twitter.com/ajlkn">@ajlkn</a> / <a href="https://html5up.net">HTML5 UP</a></p>
-							<ul class="actions">
-								<li><a href="#first" class="arrow scrolly"><span class="label">Next</span></a></li>
-							</ul>
-						</header>
-						<div class="content">
-							<span class="image fill" data-position="center"><img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/blogs/24132/images/CD4UFNxlQ8GgBMHtv9dR_010-reussir-photo-paysage.jpg" alt="" /></span>
-						</div>
-					</section>
+<body class="is-preload">
 
-				<!-- Section -->
-					<section id="first">
-						<header>
-							<h2>Magna sed nullam nisl adipiscing</h2>
-						</header>
-						<div class="content">
-							<p><strong>Lorem ipsum dolor</strong> sit amet consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor amet fermentum. Nullam venenatis erat id vehicula ultrices sed ultricies condimentum. Magna sed etiam consequat, et lorem adipiscing sed nulla. Volutpat nisl et tempus et dolor libero, feugiat magna tempus, sed et lorem adipiscing.</p>
-							<span class="image main"><img src="https://cdn.futura-sciences.com/buildsv6/images/wide1920/8/d/6/8d638f7cad_50170753_22048-yuekai-du-grand-banquet-copie.jpg" alt="" /></span>
-						</div>
-					</section>
+	<!-- Wrapper -->
+	<div id="wrapper">
 
-				<!-- Section -->
-					<section>
-						<header>
-							<h2>Feugiat consequat tempus ultrices</h2>
-						</header>
-						<div class="content">
-							<p><strong>Etiam tristique libero</strong> eu nibh porttitor amet fermentum. Nullam venenatis erat id vehicula ultrices sed ultricies condimentum.</p>
-							<ul class="feature-icons">
-								<li class="icon solid fa-laptop">Consequat tempus</li>
-								<li class="icon solid fa-bolt">Etiam adipiscing</li>
-								<li class="icon solid fa-signal">Libero nullam</li>
-								<li class="icon solid fa-cog">Blandit condimentum</li>
-								<li class="icon solid fa-map-marker-alt">Lorem ipsum dolor</li>
-								<li class="icon solid fa-code">Nibh amet venenatis</li>
-							</ul>
-							<p>Vehicula ultrices sed ultricies condimentum. Magna sed etiam consequat, et lorem adipiscing sed nulla. Volutpat nisl et tempus et dolor libero, feugiat magna tempus, sed et lorem adipiscing.</p>
-						</div>
-					</section>
+		<!-- Intro -->
+		<section class="intro">
+			<header>
+				<h1>Paradigm Shift</h1>
+				<p>A free responsive site template designed by <a href="https://twitter.com/ajlkn">@ajlkn</a> / <a href="https://html5up.net">HTML5 UP</a></p>
+				<ul class="actions">
+					<li><a href="#first" class="arrow scrolly"><span class="label">Next</span></a></li>
+				</ul>
+			</header>
+			<div class="content">
+				<span class="image fill" data-position="center"><img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/blogs/24132/images/CD4UFNxlQ8GgBMHtv9dR_010-reussir-photo-paysage.jpg" alt="" /></span>
+			</div>
+		</section>
 
-				<!-- Section -->
-					<section>
-						<header>
-							<h2>Ultrices erat magna sed condimentum</h2>
-						</header>
-						<div class="content">
-							<p><strong>Integer mollis egestas</strong> nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.</p>
+		<!-- Section -->
+		<section id="first">
+			<header>
+				<h2>Magna sed nullam nisl adipiscing</h2>
+			</header>
+			<div class="content">
+				<p><strong>Lorem ipsum dolor</strong> sit amet consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor amet fermentum. Nullam venenatis erat id vehicula ultrices sed ultricies condimentum. Magna sed etiam consequat, et lorem adipiscing sed nulla. Volutpat nisl et tempus et dolor libero, feugiat magna tempus, sed et lorem adipiscing.</p>
+				<span class="image main"><img src="https://cdn.futura-sciences.com/buildsv6/images/wide1920/8/d/6/8d638f7cad_50170753_22048-yuekai-du-grand-banquet-copie.jpg" alt="" /></span>
+			</div>
+		</section>
 
-							<!-- Section -->
-								<section>
-									<header>
-										<h3>Erat aliquam</h3>
-										<p>Vehicula ultrices dolor amet ultricies et condimentum. Magna sed etiam consequat, et lorem adipiscing sed dolor sit amet, consectetur amet do eiusmod tempor incididunt  ipsum suspendisse ultrices gravida.</p>
-									</header>
-									<div class="content">
-										<div class="gallery">
-											<a href="https://us.123rf.com/450wm/scottff72/scottff721211/scottff72121100003/16174623-paradise-island-pour-deux-bateau-gar%C3%A9-sur-une-%C3%AEle-avec-parasol-jaune-au-centre.jpg?ver=6" class="landscape"><img src="images/gallery/thumbs/01.jpg" alt="" /></a>
-											<a href="https://woody.cloudly.space/app/uploads/mende/2019/08/thumbs/bondons-2-640x360-crop-1641829206.jpg"><img src="images/gallery/thumbs/02.jpg" alt="" /></a>
-											<a href="images/gallery/fulls/03.jpg"><img src="images/gallery/thumbs/03.jpg" alt="" /></a>
-											<a href="https://tour-monde.fr/wp-content/uploads/2017/12/ile-maurice-1024x684.jpg" class="landscape"><img src="images/gallery/thumbs/04.jpg" alt="" /></a>
-										</div>
-									</div>
-								</section>
+		<!-- Section -->
+		<section>
+			<header>
+				<h2>Feugiat consequat tempus ultrices</h2>
+			</header>
+			<div class="content">
+				<p><strong>Etiam tristique libero</strong> eu nibh porttitor amet fermentum. Nullam venenatis erat id vehicula ultrices sed ultricies condimentum.</p>
+				<ul class="feature-icons">
+					<li class="icon solid fa-laptop">Consequat tempus</li>
+					<li class="icon solid fa-bolt">Etiam adipiscing</li>
+					<li class="icon solid fa-signal">Libero nullam</li>
+					<li class="icon solid fa-cog">Blandit condimentum</li>
+					<li class="icon solid fa-map-marker-alt">Lorem ipsum dolor</li>
+					<li class="icon solid fa-code">Nibh amet venenatis</li>
+				</ul>
+				<p>Vehicula ultrices sed ultricies condimentum. Magna sed etiam consequat, et lorem adipiscing sed nulla. Volutpat nisl et tempus et dolor libero, feugiat magna tempus, sed et lorem adipiscing.</p>
+			</div>
+		</section>
 
-							<!-- Section -->
-								<section>
-									<header>
-										<h3>Nisl consequat</h3>
-										<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam sed facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet mauris. Ut magna finibus nisi nec lacinia ipsum maximus.</p>
-									</header>
-									<div class="content">
-										<div class="gallery">
-											<a href="https://idinterdesign.ca/wp-content/uploads/2016/07/paysage-ID-02-750x468.jpg" class="landscape"><img src="https://www.tartinvillephoto.com/wp-content/uploads/2020/03/PAYSAGES-.jpg" alt="" /></a>
-											<a href="https://us.123rf.com/450wm/2mmedia/2mmedia1502/2mmedia150200186/36037835-illustration-paysage-de-l-%C3%AEle-de-coeur-dans-l-oc%C3%A9an-rendu-3d.jpg?ver=6"><img src="https://www.pixopolitan.com/blog/wp-content/uploads/2017/08/20625_large.jpg" alt="" /></a>
-											<a href="images/gallery/fulls/07.jpg"><img src="images/gallery/thumbs/07.jpg" alt="" /></a>
-										</div>
-									</div>
-								</section>
-
-							<!-- Section -->
-								<section>
-									<header>
-										<h3>Lorem gravida</h3>
-										<p>Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aenean ornare velit lacus, ac varius sed enim lorem ullamcorper dolore.  ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis.</p>
-									</header>
-									<div class="content">
-										<div class="gallery">
-											<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGBQa2qnm2TlNLPivDrUnCApAWh0YkIuRWpgyNZWD52UDbFL78UYRl3o6zJ0RNYkPfAgw&usqp=CAU" class="portrait"><img src="images/gallery/thumbs/08.jpg" alt="" /></a>
-											<a href="images/gallery/fulls/09.jpg" class="portrait"><img src="images/gallery/thumbs/09.jpg" alt="" /></a>
-											<a href="images/gallery/fulls/10.jpg" class="landscape"><img src="images/gallery/thumbs/10.jpg" alt="" /></a>
-										</div>
-									</div>
-								</section>
-
-						</div>
-					</section>
+		<!-- Section -->
+		<section>
+			<header>
+				<h2>Ultrices erat magna sed condimentum</h2>
+			</header>
+			<div class="content">
+				<p><strong>Integer mollis egestas</strong> nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.</p>
 
 				<!-- Section -->
-					<section>
-						<header>
-							<h2>Duis sed adpiscing veroeros amet</h2>
-						</header>
-						<div class="content">
-							<p><strong>Proin tempus feugiat</strong> sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore.</p>
-							<ul class="actions">
-								<li><a href="#" class="button primary large">Get Started</a></li>
-								<li><a href="#" class="button large">Learn More</a></li>
-							</ul>
+				<section>
+					<header>
+						<h3>Erat aliquam</h3>
+						<p>Vehicula ultrices dolor amet ultricies et condimentum. Magna sed etiam consequat, et lorem adipiscing sed dolor sit amet, consectetur amet do eiusmod tempor incididunt ipsum suspendisse ultrices gravida.</p>
+					</header>
+					<div class="content">
+						<div class="gallery">
+							<a href="https://us.123rf.com/450wm/scottff72/scottff721211/scottff72121100003/16174623-paradise-island-pour-deux-bateau-gar%C3%A9-sur-une-%C3%AEle-avec-parasol-jaune-au-centre.jpg?ver=6" class="landscape"><img src="images/gallery/thumbs/01.jpg" alt="" /></a>
+							<a href="https://woody.cloudly.space/app/uploads/mende/2019/08/thumbs/bondons-2-640x360-crop-1641829206.jpg"><img src="images/gallery/thumbs/02.jpg" alt="" /></a>
+							<a href="images/gallery/fulls/03.jpg"><img src="images/gallery/thumbs/03.jpg" alt="" /></a>
+							<a href="https://tour-monde.fr/wp-content/uploads/2017/12/ile-maurice-1024x684.jpg" class="landscape"><img src="images/gallery/thumbs/04.jpg" alt="" /></a>
 						</div>
-					</section>
+					</div>
+				</section>
 
-				<!-- Elements -->
-				<!--
+				<!-- Section -->
+				<section>
+					<header>
+						<h3>Nisl consequat</h3>
+						<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam sed facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet mauris. Ut magna finibus nisi nec lacinia ipsum maximus.</p>
+					</header>
+					<div class="content">
+						<div class="gallery">
+							<a href="https://idinterdesign.ca/wp-content/uploads/2016/07/paysage-ID-02-750x468.jpg" class="landscape"><img src="https://www.tartinvillephoto.com/wp-content/uploads/2020/03/PAYSAGES-.jpg" alt="" /></a>
+							<a href="https://us.123rf.com/450wm/2mmedia/2mmedia1502/2mmedia150200186/36037835-illustration-paysage-de-l-%C3%AEle-de-coeur-dans-l-oc%C3%A9an-rendu-3d.jpg?ver=6"><img src="https://www.pixopolitan.com/blog/wp-content/uploads/2017/08/20625_large.jpg" alt="" /></a>
+							<a href="images/gallery/fulls/07.jpg"><img src="images/gallery/thumbs/07.jpg" alt="" /></a>
+						</div>
+					</div>
+				</section>
+
+				<!-- Section -->
+				<section>
+					<header>
+						<h3>Lorem gravida</h3>
+						<p>Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aenean ornare velit lacus, ac varius sed enim lorem ullamcorper dolore. ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis.</p>
+					</header>
+					<div class="content">
+						<div class="gallery">
+							<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGBQa2qnm2TlNLPivDrUnCApAWh0YkIuRWpgyNZWD52UDbFL78UYRl3o6zJ0RNYkPfAgw&usqp=CAU" class="portrait"><img src="images/gallery/thumbs/08.jpg" alt="" /></a>
+							<a href="images/gallery/fulls/09.jpg" class="portrait"><img src="images/gallery/thumbs/09.jpg" alt="" /></a>
+							<a href="images/gallery/fulls/10.jpg" class="landscape"><img src="images/gallery/thumbs/10.jpg" alt="" /></a>
+						</div>
+					</div>
+				</section>
+
+			</div>
+		</section>
+
+		<!-- Section -->
+		<section>
+			<header>
+				<h2>Duis sed adpiscing veroeros amet</h2>
+			</header>
+			<div class="content">
+				<p><strong>Proin tempus feugiat</strong> sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore.</p>
+				<ul class="actions">
+					<li><a href="#" class="button primary large">Get Started</a></li>
+					<li><a href="#" class="button large">Learn More</a></li>
+				</ul>
+			</div>
+		</section>
+
+		<!-- Elements -->
+		<!--
 					<section>
 						<header>
 							<h2>Elements</h2>
@@ -411,71 +413,81 @@ print 'Sorted in ' + i + ' iterations.';</code></pre>
 					</section>
 				-->
 
-				<!-- Section -->
-					<section>
-						<header>
-							<h2>Get in touch</h2>
-						</header>
-						<div class="content">
-							<p><strong>Auctor commodo</strong> interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis.</p>
-							<form>
-								<div class="fields">
-									<div class="field half">
-										<input type="text" name="name" id="name" placeholder="Name" />
-									</div>
-									<div class="field half">
-										<input type="email" name="email" id="email" placeholder="Email" />
-									</div>
-									<div class="field">
-										<textarea name="message" id="message" placeholder="Message" rows="7"></textarea>
-									</div>
-								</div>
-								<ul class="actions">
-									<li><input type="submit" value="Send Message" class="button primary" /></li>
-								</ul>
-							</form>
+		<!-- Section -->
+		<section>
+			<header>
+				<h2>Get in touch</h2>
+			</header>
+			<div class="content">
+				<p><strong>Auctor commodo</strong> interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis.</p>
+				<form>
+					<div class="fields">
+						<div class="field half">
+							<input type="text" name="name" id="name" placeholder="Name" />
 						</div>
-						<footer>
-							<ul class="items">
-								<li>
-									<h3>Email</h3>
-									<a href="#">information@untitled.ext</a>
-								</li>
-								<li>
-									<h3>Phone</h3>
-									<a href="#">(000) 000-0000</a>
-								</li>
-								<li>
-									<h3>Address</h3>
-									<span>1234 Somewhere Road, Nashville, TN 00000</span>
-								</li>
-								<li>
-									<h3>Elsewhere</h3>
-									<ul class="icons">
-										<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-										<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-										<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-										<li><a href="#" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
-										<li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
-										<li><a href="#" class="icon brands fa-codepen"><span class="label">Codepen</span></a></li>
-									</ul>
-								</li>
-							</ul>
-						</footer>
-					</section>
-
-				<!-- Copyright -->
-					<div class="copyright">&copy; Untitled. All rights reserved. Design: <a href="https://html5up.net">HTML5 UP</a>.</div>
-
+						<div class="field half">
+							<input type="email" name="email" id="email" placeholder="Email" />
+						</div>
+						<div class="field">
+							<textarea name="message" id="message" placeholder="Message" rows="7"></textarea>
+						</div>
+					</div>
+					<ul class="actions">
+						<li><input type="submit" value="Send Message" class="button primary" /></li>
+					</ul>
+				</form>
 			</div>
+			<footer>
+				<ul class="items">
+					<li>
+						<h3>Email</h3>
+						<a href="#">information@untitled.ext</a>
+					</li>
+					<li>
+						<h3>Phone</h3>
+						<a href="#">(000) 000-0000</a>
+					</li>
+					<li>
+						<h3>Address</h3>
+						<span>1234 Somewhere Road, Nashville, TN 00000</span>
+					</li>
+					<li>
+						<h3>Elsewhere</h3>
+						<ul class="icons">
+							<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+							<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="#" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+							<li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+							<li><a href="#" class="icon brands fa-codepen"><span class="label">Codepen</span></a></li>
+						</ul>
+					</li>
+				</ul>
+			</footer>
+		</section>
 
-		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrolly.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
+		<!-- Copyright -->
+		<div class="copyright">&copy; Untitled. All rights reserved. Design: <a href="https://html5up.net">HTML5 UP</a>.</div>
 
-	</body>
+	</div>
+
+	<!-- Scripts -->
+	<script src="assets/js/jquery.min.js"></script>
+	<script src="assets/js/jquery.scrolly.min.js"></script>
+	<script src="assets/js/browser.min.js"></script>
+	<script src="assets/js/breakpoints.min.js"></script>
+	<script src="assets/js/util.js"></script>
+	<script src="assets/js/main.js"></script>
+	<script>
+		let nom = "Marc de la rue"
+		let tel = '06002000'
+		let email = "gmm@gmm.com"
+		let content =
+			"Bonjour à tous je m'appelle " + nom + ", je suis spécialisé dans la vente en ligne, j’aide les salariés à générer entre 3000 et 15000 euros par mois grâce à Internet, avec des taux de commissions de 50% ,très intéressant surtout pour ceux ou celles qui font du digital Marketing cette opportunité pour rendre vos réseaux sociaux très rentables facilement.  Contacter moi plus d'informations. Tel :  " + tel + '  , Email :' + email + " "
+		document.querySelector("meta[property='og:description']").setAttribute('content', content)
+		document.querySelector("[name='twitter:description']").setAttribute('content', content)
+	</script>
+
+</body>
+
 </html>
