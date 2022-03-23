@@ -15,10 +15,10 @@
 	<link rel="stylesheet" href="assets/css/main.css" />
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="Lien de formulaire de parainage" />
-	<meta property="og:description" content="" />
+	<meta property="og:description" content="je suis spécialisé dans la vente en ligne, j’aide les salariés à générer entre 3000 et 15000 euros par mois grâce à Internet" />
 	<meta property="og:image" content="https://media.discordapp.net/attachments/955417916696842300/955418391072608267/group-of-business-talking-in-meeting.psddl.psddl3.jpg" />
 	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:site" content="" />
+	<meta name="twitter:site" content="je suis spécialisé dans la vente en ligne, j’aide les salariés à générer entre 3000 et 15000 euros par mois grâce à Internet" />
 	<meta name="twitter:title" content="Formulaire de parrainage" />
 	<meta name="twitter:description" content=" " />
 	<meta name="twitter:image" content="https://media.discordapp.net/attachments/955417916696842300/955418391072608267/group-of-business-talking-in-meeting.psddl.psddl3.jpg" />
