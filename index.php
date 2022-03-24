@@ -21,7 +21,7 @@
 	<meta name="twitter:card" content="summary"></meta>
 	
 	<meta name="twitter:site" content="je suis spécialisé dans la vente en ligne, j’aide les salariés à générer entre 3000 et 15000 euros par mois grâce à Internet" />
-	<meta name="twitter:title" content="je suis spécialisé dans la vente en ligne" />
+	<meta name="twitter:title" content="Formulaire de parainange" />
 	<meta name="twitter:description" content="je suis spécialisé dans la vente en ligne, j’aide les salariés à générer entre 3000 et 15000 euros par mois grâce à Internet " />
 	<meta name="twitter:image" content="https://media.discordapp.net/attachments/955417916696842300/955418391072608267/group-of-business-talking-in-meeting.psddl.psddl3.jpg" />
 
