@@ -14,7 +14,7 @@
 <body>
     <div class="les_button">
         <a class="button mt-6 ml-8"  href="/"> <i class="icon solid fa-laptop"></i></a>
-        <a class="button mt-6 ml-8" target="_blank"  href="https://www.facebook.com/sharer.php?u=https://app-metatest.herokuapp.com&quote=Bonjour à tous je m'appelle , je suis spécialisé dans la vente en ligne, j’aide les salariés à générer entre 3000 et 15000 euros par mois grâce à Internet, avec des taux de commissions de 50% ,très intéressant surtout pour ceux ou celles qui font du digital Marketing cette opportunité pour rendre vos réseaux sociaux très rentables facilement.  Contacter moi plus d'informations. Tel :  " > <i class="icon solid fa-share"></i></i></a>
+        <a class="button mt-6 ml-8" target="_blank"  href="https://www.facebook.com/sharer.php?u=https://app-metatest.herokuapp.com&quote=Bonjour à tous je m'appelle , je suis spécialisé dans la vente en ligne, j’aide les salariés à générer entre 3000 et 15000 euros par mois grâce à Internet, avec des taux de commissions de 50% ,très intéressant surtout pour ceux ou celles qui font du digital Marketing cette opportunité pour rendre vos réseaux sociaux très rentables facilement " > <i class="icon solid fa-share"></i></i></a>
     </div>
     <script>
         let title = "je suis spécialisé dans la vente en ligne, j’aide les salariés à générer entre 3000 et 15000 euros par mois grâce à Internet"
