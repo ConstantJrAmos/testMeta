@@ -14,7 +14,7 @@
 	<meta property="og:description" content="je suis spécialisé dans la vente en ligne, j’aide les salariés à générer entre 3000 et 15000 euros par mois grâce à Internet" />
 	<meta property="og:image" content="https://media.discordapp.net/attachments/955417916696842300/955418391072608267/group-of-business-talking-in-meeting.psddl.psddl3.jpg" />
 	<meta property="og:image:width" content="400" />
-<meta property="og:image:height" content="300" />
+<meta property="og:image:height" content="250" />
 	
 	<meta name="twitter:card" content="summary"></meta>
 	
