@@ -1,9 +1,5 @@
 <!DOCTYPE HTML>
-<!--
-	Paradigm Shift by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
+
 <html>
 
 <head>
@@ -483,13 +479,7 @@ print 'Sorted in ' + i + ' iterations.';</code></pre>
 	<script src="assets/js/util.js"></script>
 	<script src="assets/js/main.js"></script>
 	<script>
-		let nom = "Marc de la rue"
-		let tel = '06002000'
-		let email = "gmm@gmm.com"
-		let content =
-			"Bonjour à tous je m'appelle " + nom + ", je suis spécialisé dans la vente en ligne, j’aide les salariés à générer entre 3000 et 15000 euros par mois grâce à Internet, avec des taux de commissions de 50% ,très intéressant surtout pour ceux ou celles qui font du digital Marketing cette opportunité pour rendre vos réseaux sociaux très rentables facilement.  Contacter moi plus d'informations. Tel :  " + tel + '  , Email :' + email + " "
-		// document.querySelector("meta[property='og:description']").setAttribute('content', content)
-		// document.querySelector("[name='twitter:description']").setAttribute('content', content)
+		
 	</script>
 
 </body>
