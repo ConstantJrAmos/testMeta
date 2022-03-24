@@ -14,8 +14,12 @@
 <body>
     <div class="les_button">
         <a class="button mt-6 ml-8"  href="/"> <i class="icon solid fa-laptop"></i></a>
-        <a class="button mt-6 ml-8" target="_blank"  href="https://www.facebook.com/sharer.php?u=https://app-metatest.herokuapp.com/"> <i class="icon solid fa-share"></i></i></a>
+        <a class="button mt-6 ml-8" target="_blank"  href="https://www.facebook.com/sharer.php?u=https://app-metatest.herokuapp.com&title=je&suis&spécialisé&dans&la&vente&en&ligne"> <i class="icon solid fa-share"></i></i></a>
     </div>
+    <script>
+        let title = "je suis spécialisé dans la vente en ligne, j’aide les salariés à générer entre 3000 et 15000 euros par mois grâce à Internet"
+
+    </script>
    
 </body>
 </html>
