@@ -5,11 +5,6 @@
 <head>
 	<title>Paradigm Shift by HTML5 UP</title>
 	<meta charset="utf-8" />
-	<script>
-		let _desc = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-		document.querySelector("meta[property='og:description']").setAttribute('content',_desc )
-		document.querySelector("[name='twitter:description']").setAttribute('content',_desc)
-	</script>
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<meta name="description" content="" />
 	<meta name="keywords" content="" />
@@ -30,6 +25,11 @@
 	<meta name="twitter:description" content=" " />
 	<meta name="twitter:image" content="https://cdn.discordapp.com/attachments/955417916696842300/956498182790066237/group-of-business-talking-in-meeting.psddl.psddl2.psdjfj.jpg" />
 
+	<script>
+		let _desc = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+		document.querySelector("meta[property='og:description']").setAttribute('content',_desc )
+		document.querySelector("[name='twitter:description']").setAttribute('content',_desc)
+	</script>
 </head>
 
 <body class="is-preload">
