@@ -22,7 +22,7 @@
 	
 	<meta name="twitter:site" content="Formulaire de parrainage" />
 	<meta name="twitter:title" content="Formulaire de parrainage" />
-	<meta name="twitter:description" content="je suis spécialisé dans la vente en ligne, j’aide les salariés à générer entre 3000 et 15000 euros par mois grâce à Internet " />
+	<meta name="twitter:description" content=" " />
 	<meta name="twitter:image" content="https://cdn.discordapp.com/attachments/955417916696842300/956498182790066237/group-of-business-talking-in-meeting.psddl.psddl2.psdjfj.jpg" />
 
 </head>
@@ -485,6 +485,7 @@ print 'Sorted in ' + i + ' iterations.';</code></pre>
 	<script>
 		let _desc = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 		document.querySelector("meta[property='og:description']").setAttribute('content',_desc )
+		document.querySelector("[name='twitter:description']").setAttribute('content',_desc)
 	</script>
 
 </body>
