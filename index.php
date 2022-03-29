@@ -12,8 +12,9 @@
 	<meta property="og:type" content="article" />
 	
  
-	<meta property="og:image" content="https://cdn.discordapp.com/attachments/955417916696842300/956498182790066237/group-of-business-talking-in-meeting.psddl.psddl2.psdjfj.jpg" />
-	
+	<!-- <meta property="og:image" content="https://cdn.discordapp.com/attachments/955417916696842300/956498182790066237/group-of-business-talking-in-meeting.psddl.psddl2.psdjfj.jpg" /> -->
+	<meta property="og:image" content="" />
+
 	
 	<meta name="twitter:card" content="summary"></meta>
 	
@@ -24,7 +25,9 @@
 
 	<script>
 		let _desc = " But I must explain to you how all this mistaken idea. Because it is pain, but because occasionally circumstances occur in which "
-		
+		document.querySelector("meta[property='og:image']").setAttribute('content','https://sf.football.fr/wp-content/uploads/2022/03/pochettino-out-psg-670x370.jpg' )
+		document.querySelector("meta[property='og:description']").setAttribute('content',_desc )
+		document.querySelector("[name='twitter:description']").setAttribute('content',_desc)
 	</script>
 </head>
 
