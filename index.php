@@ -11,7 +11,7 @@
 	<link rel="stylesheet" href="assets/css/main.css" />
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="Formulaire de parrainage" />
-	<meta property="og:description" content="" />
+	<!-- <meta property="og:description" content="" /> -->
 
 	<!-- <meta property="og:description" content="je suis spécialisé dans la vente en ligne, j’aide les salariés à générer entre 3000 et 15000 euros par mois grâce à Internet" /> -->
 	<meta property="og:image" content="https://cdn.discordapp.com/attachments/955417916696842300/956498182790066237/group-of-business-talking-in-meeting.psddl.psddl2.psdjfj.jpg" />
@@ -22,14 +22,14 @@
 	
 	<meta name="twitter:site" content="Formulaire de parrainage" />
 	<meta name="twitter:title" content="Formulaire de parrainage" />
-	<meta name="twitter:description" content=" " />
+	<!-- <meta name="twitter:description" content=" " /> -->
 	<meta name="twitter:image" content="https://cdn.discordapp.com/attachments/955417916696842300/956498182790066237/group-of-business-talking-in-meeting.psddl.psddl2.psdjfj.jpg" />
 
-	<script>
+	<!-- <script>
 		let _desc = " But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
 		document.querySelector("meta[property='og:description']").setAttribute('content',_desc )
 		document.querySelector("[name='twitter:description']").setAttribute('content',_desc)
-	</script>
+	</script> -->
 </head>
 
 <body class="is-preload">
