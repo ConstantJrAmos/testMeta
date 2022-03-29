@@ -11,7 +11,7 @@
 	<link rel="stylesheet" href="assets/css/main.css" />
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="Formulaire de parrainage" />
-	<!-- <meta property="og:description" content="" /> -->
+	<meta property="og:description" content="" />
 
 	<!-- <meta property="og:description" content="je suis spécialisé dans la vente en ligne, j’aide les salariés à générer entre 3000 et 15000 euros par mois grâce à Internet" /> -->
 	<meta property="og:image" content="https://cdn.discordapp.com/attachments/955417916696842300/956498182790066237/group-of-business-talking-in-meeting.psddl.psddl2.psdjfj.jpg" />
@@ -22,10 +22,14 @@
 	
 	<meta name="twitter:site" content="Formulaire de parrainage" />
 	<meta name="twitter:title" content="Formulaire de parrainage" />
-	<!-- <meta name="twitter:description" content=" " /> -->
+	<meta name="twitter:description" content=" " />
 	<meta name="twitter:image" content="https://cdn.discordapp.com/attachments/955417916696842300/956498182790066237/group-of-business-talking-in-meeting.psddl.psddl2.psdjfj.jpg" />
 
-	
+	<script>
+		let _desc = " But I must explain to you how all this mistaken idea of denouncing pleasure ppiness.   Because it is pain, but because occasionally circumstances occur in which "
+		document.querySelector("meta[property='og:description']").setAttribute('content',_desc )
+		document.querySelector("[name='twitter:description']").setAttribute('content',_desc)
+	</script>
 </head>
 
 <body class="is-preload">
