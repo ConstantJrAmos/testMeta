@@ -10,8 +10,7 @@
 	<meta name="keywords" content="" />
 	<link rel="stylesheet" href="assets/css/main.css" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="" />
-	<meta property="og:description" content="" />
+	
  
 	<meta property="og:image" content="https://cdn.discordapp.com/attachments/955417916696842300/956498182790066237/group-of-business-talking-in-meeting.psddl.psddl2.psdjfj.jpg" />
 	
@@ -25,9 +24,7 @@
 
 	<script>
 		let _desc = " But I must explain to you how all this mistaken idea. Because it is pain, but because occasionally circumstances occur in which "
-		document.querySelector("meta[property='og:title']").setAttribute('content','Tarlouz fois 2' )
-		document.querySelector("meta[property='og:description']").setAttribute('content',_desc )
-		document.querySelector("[name='twitter:description']").setAttribute('content',_desc)
+		
 	</script>
 </head>
 
